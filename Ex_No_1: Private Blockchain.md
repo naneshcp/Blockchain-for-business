@@ -1,10 +1,10 @@
 
-EX.NO-1
+# EX.NO-1
 CREATING A PRIVATE DATE: BLOCKCHAIN
-AIM
+## AIM
 To create a Private Blockchain and to add nodes, create accounts, transfer Ether into it by creating
 and deploying Smart contract.
-PROCEDURE
+## PROCEDURE
 
 ```
 1.Go to https //geth.ethereum.org/ and download the software for windows. While installing select
@@ -114,9 +114,16 @@ return name;
 ```
 OUTPUT
 # Deploying Transaction in Remix
-7
+
+<img width="1917" height="1002" alt="image" src="https://github.com/user-attachments/assets/99949f36-ad31-4341-bcd2-87a084f5b11c" />
+
+
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/ebafa5ba-ff3c-4a3f-9a7c-b7b187877da7" />
+
+
 # Contract Creation Output in Command Prompt
 <img width="1180" height="492" alt="image" src="https://github.com/user-attachments/assets/fc0eaa31-1340-4c3e-8410-3ca49a1f4dcd" />
 
-RESULT: Thus, the Private Blockchain is created, nodes are added with accounts, and Ether is transferred
+## RESULT: 
+Thus, the Private Blockchain is created, nodes are added with accounts, and Ether is transferred
 into it by creating and deploying Smart contract successfully
